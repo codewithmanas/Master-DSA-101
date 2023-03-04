@@ -13,9 +13,9 @@ When we solved any problem with any time complexity, we should think can we make
 
 **To be more precise, we can follow these steps :**
 
-**Step-1 :** Brute-force solution
-**Step-2 :** Divide into sub-problem
-**Step-3 :** Optimization
+**Step-1 :** Brute-force solution \
+**Step-2 :** Divide into sub-problem \
+**Step-3 :** Optimization \ 
         1. by sorting
         2. using space
         3. many more techniques will be known by doing practice...

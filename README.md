@@ -26,4 +26,10 @@ When we solved any problem with any time complexity, we should think can we make
 - Make notes on how you approach that problem, divide it into steps
 - Then, finally upload on GitHub because you may need it in future for reference, this also improve your self confidence which is needed to solve better problems.
 
+## Optimization Techniques:
+- by sorting
+- using space
+- by using two pointers
+
+
 That's all. Thanks for reading.
